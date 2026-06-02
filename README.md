@@ -1,4 +1,4 @@
-# Power BI Dashboard Portfolio
+# Excel & Google Sheets Dashboard
 
 
 
@@ -40,9 +40,6 @@ Convert raw data into actionable insights.
 * Easy navigation between dashboard components.
 
 
-
-
-
 ## Purpose
 
 
@@ -52,3 +49,5 @@ The purpose of creating an Excel or Google Sheets dashboard is to convert raw da
 
 
 ## Author
+
+Greeshma R Krishnan
